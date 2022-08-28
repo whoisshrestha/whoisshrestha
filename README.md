@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React Native and Flutter**
 
-- 👨‍💻 All of my projects are available at [bipinsuwal.com](bipinsuwal.com)
+- 👨‍💻 All of my projects are available at bipinsuwal.com
 
 - 💬 Ask me about **React Js, HTML, SCSS, Tailwind CSS**
 
